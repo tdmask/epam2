@@ -1,0 +1,10 @@
+file: '1.c'; statement 'for' qty = 1
+file: '5.c'; statement 'for' qty = 5
+file: '2.c'; statement 'for' qty = 2
+file: '3.c'; statement 'for' qty = 3
+file: '4.c'; statement 'for' qty = 4
+file: '1.c'; statement 'for' qty = 1
+file: '5.c'; statement 'for' qty = 5
+file: '2.c'; statement 'for' qty = 2
+file: '4.c'; statement 'for' qty = 4
+file: '3.c'; statement 'for' qty = 3
